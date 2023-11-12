@@ -1,7 +1,7 @@
 
 #### This LAB is the backend interface for searching technologies or algorithms in python
 
-Contribution: Team contributed LAB work. Sahithya took on the Depth-First Search (DFS) and A* algorithms, while Lakshitha worked on the Breadth-First Search (BFS) and Uniform Cost Search (UCS) algorithms.   
+Contribution: Team contributed LAB work. Lakshitha Read input from text file and store it in different variables. Then she implemented BFS and UCS. Sahithya implemented DFS and A* and write Output file.   
 
 Name: Sahithya Chittiprolu, CoyoteId: (008426399)
 Name: Lakshitha Lnu, CoyoteId: (008437670)
